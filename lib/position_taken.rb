@@ -5,5 +5,4 @@ def position_taken?(board, index)
   else 
     baord[index] == index 
   end
-  
 end
